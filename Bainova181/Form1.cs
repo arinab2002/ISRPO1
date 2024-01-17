@@ -23,6 +23,7 @@ namespace Bainova181
             // TODO: данная строка кода позволяет загрузить данные в таблицу "database1DataSet.view_goods". При необходимости она может быть перемещена или удалена.
             this.view_goodsTableAdapter.Fill(this.database1DataSet.view_goods);
             groupBox1.Hide();
+            // Комментарий для первого коммита
         }
 
         private void button1_Click(object sender, EventArgs e)

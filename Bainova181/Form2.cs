@@ -17,6 +17,7 @@ namespace Bainova181
         public Form2()
         {
             InitializeComponent();
+            // Комментарий для второго коммита
         }
 
         private void button1_Click(object sender, EventArgs e)
